@@ -1,4 +1,4 @@
-Adblock 
+DecX777 Adblock Magisk module
 =============
 Replace your system's hosts file with the ad blocker file.
 
